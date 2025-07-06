@@ -5,9 +5,9 @@
 > 1986年9月 圣彼得堡国际机场到达大厅  
 > 在接受JBC记者采访时如是说道
 
-* Girls Egg Dystopia Episode-1 Pt.2 "Onnanoko no Mayu -Maid in May-"  
-* in May, 1935  
-* 编·伊丹 有桂  
+* Girls Egg Dystopia Episode-1 Pt.2 "Onnanoko no Mayu -Maid in May-"
+* in May, 1935
+* 编·伊丹 有桂
 * Cocoa Holic #23【2017.8.13】
 
 今回も、劇中に描かれる時代特有の要素、漫画のみでは伝わり辛いであろう点に関しての解説を、時代背景補足として行った。例によって読まれる時代を考慮し、現代仮名遣いにて表記した為、読む際には十分に注意されたし。  
