@@ -1,9 +1,25 @@
+**注意：该项目以CC BY-NC-SA 4.0进行许可。**
+
+***
+
 > 天下只有两类人。  
 > 譬如一串葡萄到手，一类人挑最好的先吃，另一类人把最好的留在最后吃。  
 > 照例第一类人应该乐观，因为他每吃一颗都是吃剩的葡萄里最好的。  
 > 第二类人应该悲观，因为他吃的每一颗都是吃剩的葡萄里最坏的。  
 > 不过，第二类人还有希望，第一类人只有回忆。  
 > ——引子
+
+『
+<p align="center">她</p>  
+<p align="center">，</p>  
+<p align="center">依</p>  
+<p align="center">旧</p>  
+<p align="center">在</p>  
+<p align="center">茧</p>  
+<p align="center">之</p>  
+<p align="center">中</p>  
+<p align="center">。</p>  
+<p align="right">』</p>
 
 ### ガールズ·エッグ·ディストピア（Girls Egg Dystopia）后记汉化补完计划
 
