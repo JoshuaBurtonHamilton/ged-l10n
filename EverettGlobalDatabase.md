@@ -71,5 +71,5 @@
 * スペースアンカーファスト：<ins>Space Anchor 1st.</ins>
 * ヒト生殖不全ウイルス：<ins>人类生殖不全病毒</ins>
 * エヴェレット／Everett：<ins>艾弗雷特</ins>
-* アストレア／Astrea：<ins>艾斯特雷亚</ins>
+* アストレア／Astraea：<ins>艾斯特雷亚</ins>
 * ヤマト／Yamato：<ins>大和</ins>
