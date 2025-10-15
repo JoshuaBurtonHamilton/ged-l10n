@@ -64,9 +64,10 @@
 * ジョシュア·ハミルトン特異点／ハミルトンシンギュラリティー：约书亚·哈密顿奇点／<ins>哈密顿奇点</ins>
 * ハミルトン不確定性穿孔扉／Hamilton Uncertain Borderdiving Booster：<ins>哈密顿不确定性穿孔门</ins>，HUBB
 * ヤエグサ·カンナミ現実锚／八重種・巫海現実錨：<ins>八重种·巫海现实锚</ins>：
-* コア·インテレクス：<ins>Core Interex</ins>
-* ドーヨー·アールアンドアイ：<ins>Doyo R&I</ins>
-* 「繭」：<ins>「茧」</ins>
+* コア·インテレクス：<ins>Core Intellex</ins>
+* ドーヨーグループ：<ins>堂阳集团</ins>，DOYO集团
+* ドーヨー·アールアンドアイ：<ins>堂阳 R&I</ins>,Doyo R&I<br>Doyo Reseach and Investigate Co.,ltd.
+* 「コクーン」：<ins>「茧」</ins>
 * モジュール：<ins>仪象</ins>
 * スペースアンカーファスト：<ins>Space Anchor 1st.</ins>
 * ヒト生殖不全ウイルス：<ins>人类生殖不全病毒</ins>
