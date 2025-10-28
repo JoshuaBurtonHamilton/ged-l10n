@@ -1,6 +1,8 @@
 ## ガールズ·エッグ·ディストピア（Girls Egg Dystopia）
 
-**注意：该项目以CC BY-NC-SA 4.0进行许可。**
+> [!NOTE]
+>
+> 该项目以CC BY-NC-SA 4.0进行许可。
 
 ***
 
@@ -11,16 +13,8 @@
 > 不过，第二类人还有希望，第一类人只有回忆。  
 > ——引子
 
-『
-<p align="center">她</p>  
-<p align="center">，</p>  
-<p align="center">依</p>  
-<p align="center">旧</p>  
-<p align="center">在</p>  
-<p align="center">茧</p>  
-<p align="center">之</p>  
-<p align="center">中</p>  
-<p align="center">。</p>  
+<p>『</p>
+<p align="center">她<br>︐<br>依<br>旧<br>在<br>茧<br>之<br>中<br>︒</p>
 <p align="right">』</p>
 
 ### 后记汉化补完计划
